@@ -48,13 +48,13 @@
 
 
 
-  // start configuration **************************************************************************************************
+  // start configuration ****************************************************************************************************
 
   Application["strcnn"] = "Data Source=MAURIZIO-TOSH\\SQLEXPRESS; Initial Catalog=simplestecommerce; User Id=sa; Password=Luigia-3333;";
   Application["upload"] = "~/upload";
   Application["serialnumber"] = ""; // serial number for Copyright label removal; contact us from the site http://www.simplestecommerce.com in order to receive the serial number.
 
-  // end configuration ****************************************************************************************************
+  // end configuration *******************************************************************************************************
 
 
   string languagepackpath;
