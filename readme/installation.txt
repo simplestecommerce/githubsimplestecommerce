@@ -1,0 +1,89 @@
+
+SimplestEcommerce SERVER REQUISITES
+
+Hosting Windows supporting asp.NET 4.5 
+1 folder on your hosting space with write permission from web
+1 db Microsoft Sql-Server 2008 or higher 
+
+
+SimplestEcommerce INSTALLATION
+
+Open the file simplestecommerce.sql and modify the line:
+USE [simplestecommerce]
+placing within the square brackets the name of your sql-server database.
+Then, execute the query structure.sql and then the query data.sql, against your sql server database.
+
+Then modify in global .asax the line:
+Application["strcnn"] = "Data Source=...; Initial Catalog=...; User Id=...; Password=...;";
+placing, in place of dots, respectively the sql server name, the database name, the username and his password.
+
+Then modify in global.asax the line:
+Application["upload"] = "...";
+with the path of the folder with write permission from web, for example :
+Application["upload"] = "~/public";
+
+Open the file web.config in the main folder and modify the line:
+<compilation debug="true" targetFramework="4.5">
+in
+<compilation debug="false" targetFramework="4.5">
+
+and modify the line:
+<add key="isdemo" value="true"/>
+in
+<add key="isdemo" value="false"/>
+
+
+Finally, tranfer via ftp all the files and folders in the root folder of your hosting space.
+
+The storefront will be visible at:
+http://www.yourdomain.ext
+
+The admin panel will be visible at:
+http://www.yourdomain.ext/admin/admin.aspx . The admin password is ' admin ' . (then, remember to change the password from the administration as soon as possible)
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+REQUISITI SERVER SimplestEcommerce
+
+Hosting Windows con supporto ASP.NET 4.5 
+1 cartella sul tuo spazio hosting con permessi di scrittura da web
+1 database Microsoft Sql-Server 2008 o superiore
+
+
+INSTALLAZIONE SimplestEcommerce
+
+Aprire il file simplestecommerce.sql e modificare la linea:
+USE [simplestecommerce]
+inserendo fra le parentesi quadre il nome del tuo database sql-server
+Quindi eseguire la query structure.sql e poi la query data.sql sul tuo database sql-server.
+
+
+Poi modificare in global .asax la linea:
+Application["strcnn"] = "Data Source=...; Initial Catalog=...; User Id=...; Password=...;";
+inserendo al posto dei puntini rispettivamente il nome del tuo server sql, il nome del database, l'username e la sua password
+
+
+Poi modificare in global.asax the line:
+Application["upload"] = "...";
+inserendo al posto dei punti il percorso della cartella con i permessi di scrirttura da web, per esempio:
+Application["upload"] = "~/public";
+
+Aprire il file web.config contenuto nella cartella principale e cambiare la linea:
+<compilation debug="true" targetFramework="4.5">
+con
+<compilation debug="false" targetFramework="4.5">
+
+e la linea
+<add key="isdemo" value="true"/>
+in
+<add key="isdemo" value="false"/>
+
+
+Infine trasferire via FTP tutti i file e cartelle nella cartella principale del tuo spazio hosting
+
+Il lato negozio sarà visibile all'indirizzo:
+http://www.tuodominio.tuaestensione
+
+Il pannello di amministrazione sarà visibile all'indirizzo:
+http://www.tuodominio.tuaestensione/admin/admin.aspx . La password amministrazione è ' admin ' . ( poi ricordarsi di cambiare la password amministratore dal pannello di amministrazione il prima possibile).
+

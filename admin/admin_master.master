@@ -1,0 +1,94 @@
+﻿<%--  
+    Copyright (C) 2014 Maurizio Ferrera
+ 
+    This file is part of SimplestEcommerce
+
+    SimplestEcommerce is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    SimplestEcommerce is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with SimplestEcommerce.  If not, see <http://www.gnu.org/licenses/>.
+--%>
+
+<%@ Master Language="C#"   %>
+<%@ import Namespace="System.Globalization" %>
+<%@ import Namespace="System.Threading" %>
+
+<script runat="server">
+
+    void Page_Init()
+    {
+
+            
+            
+            CultureInfo modified = new CultureInfo(Thread.CurrentThread.CurrentCulture.Name);
+            Thread.CurrentThread.CurrentCulture = modified;
+            modified.NumberFormat = simplestecommerce.admin.localization.primarynumberformatinfo;
+
+
+            
+
+        
+    }
+
+
+</script>
+<html>
+<head runat="server">
+<meta http-equiv="Page-Enter" content="RevealTrans(Duration=0,Transition=0)"/>
+<title>ADMINISTRATION</title>
+<link href="~/css/admin_struttura.css" type="text/css" rel="stylesheet"  runat="server"/>
+<script type="text/javascript" src="../tinymce/tinymce.min.js" ></script>
+<script type="text/javascript">
+    tinymce.init({
+        selector: "textarea",
+        theme: "modern",
+        width: 718,
+        height: 200,
+        plugins: [
+             "advlist autolink link image lists charmap print preview hr anchor pagebreak spellchecker",
+             "searchreplace wordcount visualblocks visualchars code fullscreen insertdatetime media nonbreaking",
+             "save table contextmenu directionality paste textcolor"
+        ],
+        toolbar: "insertfile undo redo | styleselect | bold italic | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | l      ink image | print preview media fullpage | forecolor backcolor emoticons",
+        style_formats: [
+             { title: 'Bold text', inline: 'b' },
+             { title: 'Red text', inline: 'span', styles: { color: '#ff0000' } },
+             { title: 'Red header', block: 'h1', styles: { color: '#ff0000' } },
+             { title: 'Example 1', inline: 'span', classes: 'example1' },
+             { title: 'Example 2', inline: 'span', classes: 'example2' },
+             { title: 'Table styles' },
+             { title: 'Table row 1', selector: 'tr', classes: 'tablerow1' }
+        ]
+    });
+</script>
+<asp:ContentPlaceHolder runat="server" ID="headcontent"/>
+</head>
+
+<body>
+<table cellpadding="0" cellspacing="0" align="center" id="tablecontaineradmin" border="0"><tr><td>
+
+    <table id="tablemenubaradmin" cellpadding="0" cellspacing="0" >
+        <tr >
+         <td nowrap>
+          <%=System.Configuration.ConfigurationManager.AppSettings["isdemo"] == "true"? "&nbsp;(demo status)":"" %>
+          &nbsp;&nbsp;[<%=simplestecommerce.config.getCampoByApplication("config_adminlanguagename").ToString() %>]&nbsp;&nbsp;</td>
+            <td width="100%" height="20"  >
+                         <asp:Label runat="server" ID="lbldove" />
+            </td>
+            <td  style="text-align:right;width:300px"><a href="admin_logout.aspx" class="top" >logout&nbsp;as&nbsp;administrator</a>&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" runat="server" href="~/shop/default.aspx" class="top" style="color:yellow" >open&nbsp;store&nbsp;front&nbsp;window</a>&nbsp;</td>
+        </tr>
+        <tr><td colspan="3" style="background-color:#dedede;height:1px"></td></tr>
+        <tr><td colspan="3" style="height:3px"></td></tr>
+    </table>
+
+<asp:ContentPlaceHolder runat="server" ID="partecentrale"></asp:ContentPlaceHolder>
+
+</td></tr></table></body></html>

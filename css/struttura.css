@@ -1,0 +1,594 @@
+/* CSS Document */
+
+
+a:link, a:visited, a:active {
+	color:#222; text-decoration:none }
+a:hover {color:#fa540b; text-decoration:none}
+
+table#maintable {background-color:#fff; margin-bottom:8px}
+
+table#maintable tr td.col1 {
+
+    background-image:url(../immagini/ombratemplateleft.gif); background-repeat:repeat-y;
+    width:6px;
+    vertical-align:top;
+
+}
+
+table#maintable tr td.col2 {
+
+    background-color:#ffffff;
+    width:12px;
+    vertical-align:top;
+    
+}
+table#maintable tr td.col3 {
+
+    background-color:#ffffff;
+    width:180px;
+    vertical-align:top;
+}
+table#maintable tr td.col4 {
+    width:12px;
+    background-color:#ffffff;
+    vertical-align:top;
+}
+table#maintable tr td.col5 {
+    vertical-align:top;
+    width:568px;
+    background-color:#ffffff;
+
+}
+table#maintable tr td.col6 {
+
+    background-color:#ffffff;
+    width:12px;
+    vertical-align:top;
+}
+table#maintable tr td.col7 {
+    background-color: #ffffff;
+    width: 180px;
+    vertical-align:top;
+}
+
+table#maintable tr td.col8 {
+    background-color: #ffffff;
+    width: 12px;
+    vertical-align:top;
+}
+
+
+
+table#maintable tr td.col9 {
+
+    background-image:url(../immagini/ombratemplateright.gif);background-repeat:repeat-y;
+    width:6px;
+    vertical-align:top;
+}
+
+fieldset {
+    border: solid 1px #bbb;
+
+}
+
+td.box {
+        background-color: #003366;
+                                            border-top-left-radius: 6px; 
+                                            border-top-right-radius: 6px; 
+                                            border-left: solid 1px #003366; 
+                                            border-right: solid 1px #003366; 
+                                            border-top: solid 1px #003366; 
+                                            border-bottom-left-radius: 6px; 
+                                            border-bottom-right-radius: 6px; 
+                                            border-bottom: solid 1px #003366; 
+                                            border-bottom: solid 1px #003366; 
+                                            border-top: solid 1px #003366; 
+
+                                            padding-left:6px;
+                                            text-align: left; 
+                                            font-weight: bold; 
+                                            font-size: 17px; 
+                                            color:white;
+                                            height:44px;
+                                            vertical-align:middle;
+
+                                           
+}
+
+
+
+a.artnameinlist:link, a.artnameinlist:visited{
+     color:#222;
+     text-decoration:none;
+     font-weight:bold;
+     font-size:13px;
+
+}
+
+
+
+table#tablecart .header {color:white; }
+
+
+body{
+	font-family:Calibri, tahoma, Helvetica, sans-serif; margin:0; padding:0; font-size:13px; background-color:#eaeaea;   height: 100%;
+   margin: 0;}
+
+TD{
+	font-family:Calibri, tahoma, Helvetica, sans-serif; margin:0; padding:0; font-size:13px; }
+
+
+
+A.linkhead {
+color:white;
+
+font-weight:bold; color:#ffffff   ; font-size:12px
+}
+A.linkhead:visited {
+}
+
+a.molliche:link, a.molliche:visited, a.molliche:active {
+	text-decoration:underline }
+a.molliche:hover {text-decoration:underline; }
+
+
+.titoletto {
+color:#ffffff;
+font-size:14px;
+font-family:tahoma;
+letter-spacing:0px;
+font-style:normal;
+font-weight:bold
+}
+
+.big, td.big  {
+font-size:22px;
+font-weight:bold;
+color:#194E97;
+}
+
+
+.titolo {
+color:#858585;
+font-size:13px;
+font-family:tahoma;
+letter-spacing:-0px;
+font-style:normal;
+font-weight:bold;
+}
+
+.categorie,
+A.categorie:link,
+A.categorie:visited  {
+font-weight:bold;
+font-size:13px;
+line-height:13px;
+}
+
+
+.grigioscuro {
+color:#8f8f8f;
+}
+
+.bianco{
+color:#eeeeee;
+}
+
+
+
+
+.small {
+letter-spacing:-0px;
+font-family:tahoma;
+font-size:13 px;
+}
+
+
+TD.about {
+font-size:13 px;
+font-family:tahoma;
+font-weight:bold;
+background-color:#E8C7B5 ;
+}
+
+TD.aboutsotto {
+font-size:13 px;
+font-family:tahoma,tahoma;
+font-weight:bold;
+font-style:normal;
+letter-spacing:-0px;
+background-color:#EACAB9;
+color:#fafafa;
+}
+
+TR.internoBox, .internoBox {
+background-color:#ebebeb;
+}
+TR.internoBoxInEvidenza, .internoBoxInEvidenza {
+background-color:#ebebeb;
+}
+
+TR.internoBoxBianco, .internoBoxBianco {
+background-color:#FFFBF7;
+
+}
+
+
+
+/* 7ea4d6 */
+TD.tredscuro {
+background-color:#AFC6E4;
+}
+TD.tredchiaro {
+background-color:#ffffff;
+}
+
+
+TABLE.modulo {
+border-bottom: #cccccc  solid 1px;
+border-right: #cccccc  solid 1px;
+border-left: #cccccc  solid 1px;
+border-top: #cccccc  solid 1px;
+}
+TABLE.modulotop {
+
+border-top: #cccccc  solid 1px;
+border-bottom: #cccccc  solid 1px;
+border-right: #CCCCCC  solid 0px;
+border-left: #CCCCCC  solid 0px;
+
+}
+
+
+
+
+
+
+TR.modulosopra {
+border-top: #cccccc  solid 1px;
+border-right: #cccccc  solid 1px;
+border-left: #cccccc  solid 1px;
+}
+TR.modulosotto {
+border-bottom: #cccccc  solid 1px;
+border-left: #cccccc  solid 1px;
+border-left: #cccccc  solid 1px;
+}
+
+
+
+div.moduli
+{
+    color:White; font-weight:bold; font-size:15px  ;
+    margin-right:6px; 
+    margin-top:3px
+}
+
+TD.cat {
+height:17px;
+background-color:#f6f4f1;
+padding-left:4px;
+}
+
+
+TD.navigator {
+padding:1px;
+background-color:#E3BDA8;
+font-family :tahoma; font-size:13px;font-weight:bold;font-style:normal;letter-spacing:0px;
+padding:2px;}
+
+
+TABLE.cart {
+border-width:1px; border-style:solid; border-color: #000000;
+margin:1px;
+}
+
+
+TR.filled, TD.filled, DIV.filled {
+background-color:#dde6e4;
+padding:2px;
+}
+
+TR.filledbold, TD.filledbold, DIV.filledbold {
+background-color:#BDCECA;
+padding-left:4px;
+}
+
+TR.filledbolddark, TD.filledbolddark {
+background-color:#537D9C; height:25px; color:white;
+}
+
+
+
+
+TD.reparti {
+vertical-align:top;
+}
+
+
+
+
+TABLE.reverse, TD.reverse {
+background-image:url(shop/immagini/bkg-cn.gif); width:591px; height:30px; margin:3px 0 0 0;
+}
+
+
+TABLE.reverse_plane, TD.reverse_plane {
+background-color:#C9DBED;
+}
+
+
+
+TD.reverselight {
+background-color:#E9C9BA;
+font-size:10 px;
+font-family:tahoma;
+
+}
+
+td.recensioni , tr.recensioni
+{
+background-color:#ffbf18   ;
+    
+}
+
+table#tableproductdetail tr td {
+
+
+ height:18px; padding: 1px;   ; 
+    
+}
+
+table#tableproduct .price {
+    color:black;
+    font-size:26px;
+    font-weight:bold;
+    padding-top:24px
+
+}
+
+.descrizione  {
+
+font-family : tahoma,tahoma;
+
+font-size:13 px;
+font-weight:demi-bold;
+letter-spacing:0px;
+}
+
+.input {
+font-size:13 px;
+font-family : Calibri,tahoma;
+}
+
+.inputbianco {
+font-family : Calibri,tahoma;
+font-size:13 px;
+background-color:#F4F3F3;
+}
+
+.inputlargo{
+font-family : Calibri,tahoma;
+font-size:13px;
+border: solid 1px #aaa;
+width:100%;
+}
+
+.inputNegozio {
+color:black; 
+font-family:Calibri, Tahoma;  
+letter-spacing:0px; 
+font-size:13px; 
+width:165px;
+background-color:#8EB6D2;
+border: 1px solid #ccc;
+}
+
+.pulsante {
+font-size:13px;
+font-family : tahoma,tahoma;
+background-color:#537D9C;
+color:#fbfbfb;
+font-weight:normal;
+border: solid 1px #cccccc;
+}
+.pulsanteRicerca{
+width:84px;
+height:18px;
+font-size: 13px;
+font-family : tahoma;
+background-color:#8EB6D2;
+color:#000000;
+font-weight:normal;
+border: solid 1px #cccccc;
+font-style:normal;
+}
+
+
+A.link_hidden:link,
+A.link_hidden:visited {
+}
+
+A.link_hidden:hover {
+text-decoration:underline;
+}
+
+
+.spaced {
+width:200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A.top:visited {
+color:#fcfcfc;
+}
+A.top:link
+{
+color:#fcfcfc;
+}
+
+
+TD.loginsopra {
+background-color:#E3BAA6 ;
+font-size:10 px;
+font-family:tahoma;
+height:20px;
+}
+
+TD.loginsotto {
+background-color:#E3BAA6;
+font-size:13 px;
+font-family:tahoma;
+font-weight:bold;
+}
+
+
+.inputsmall {
+font-size:13 px;
+font-family : Calibri,tahoma;
+}
+
+.inputbiancosmall {
+font-family : Calibri,tahoma;
+font-size:13 px;
+background-color:#F4F3F3;
+}
+
+
+
+
+
+.admin_body {
+color:#3B5998;
+font-family: tahoma;
+font-size:13px;
+
+  }
+
+
+
+
+div.titolibox{ font-weight:bold;font-size:17px; color:#fff; }
+div.titoliboxsx{ font-weight:bold;font-size:17px; color:#fff; width:104px ; margin-left:0px; margin-top:-4px}
+div.titoliboxdx{ font-weight:bold;font-size:17px; color:#fff; margin-left:0px; margin-top:-4px }
+
+
+#tableprodincat  { margin-bottom:2px }
+#tableprodincat .tdprodincat { background-color:#ffffff; }
+
+
+
+table.box .linkart:link{
+    font-weight:bold; 
+    text-align:left; font-size:17px ;color:#fff; margin-left:4px; 
+}
+table.box .linkart:visited  {font-weight:bold; font-size:13px;color:#222; }
+
+
+table.contenutobox, div.contenutobox {background-color:#dde6e4;width:100%;margin-bottom:0px;padding:0px; margin:0px}
+#tablecontainersottocat {margin-bottom:2px}
+#tablecontainersottocat .tablesottocat {width:100%; }
+
+A.paging:link, A.paging:visited 
+{
+ font-weight:bold;    text-decoration:underline
+}
+td.paging {padding:4px; text-align:right; background-color:#ffffff}
+
+.messaggioerrore {font-size:larger; color:red; font-weight:bold}
+
+table#tableseenproduct tr td.tdseenproduct {
+}
+table#tablerelatedproduct tr td.tdrelatedproduct {
+}
+
+#tablemenu td  { 
+background-color:#003366;
+height:30px;
+border-bottom: solid 0px #99CCFF;
+font-weight:bold
+ }
+
+#tablemenu a.vocemenu:link { font-size:13px; color:#fff ; }
+#tablemenu a.vocemenu:visited { font-size:13px; color:#fff;}
+
+
+
+table#tablecontaineradmin { margin-top:16px; width:1000px; }
+table#tablecontaineradmin tr td { padding:2px;  }
+
+
+TR.admin_sfondo, TD.admin_sfondo {
+background-color:#a5cbe5; padding:5px; width:322px;
+}
+TR.admin_sfondobis, TD.admin_sfondobis {
+background-color:#b7d6eb;padding:5px;width:718px;
+}
+
+div.myeditor 
+{
+ width:100%   
+}
+
+TR.admin_sfondodark, TD.admin_sfondodark {
+background-color:#8EB6D2;
+}
+
+
+.adminSectionTitle{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+
+.bottone, input.bottone
+{
+ height:30px; background:url('immagini/glass.gif') no-repeat 0 center ;  font-size:13px; font-family:Calibri , Tahoma   
+}
+
+
+
+/* modal non di maurizio */
+        .modalBackground { 
+            background-color:#aaaaaa; 
+            filter:alpha(opacity=70); 
+            opacity:0.7; 
+        } 
+        div.modalPopup { 
+            background-color:#5E88A6; 
+            border-width:1px; 
+            border-style:solid; 
+            border-color:#CCCCCC; 
+            padding:1px; 
+            color:#fff;
+
+
+
+
+        }
+        div.container p {margin: 0}
+        
+        
+        
+        
+.help
+{
+ font-size:13px; 
+}
+td.footer{
+	height:95px; background-color:#43708f;border-top:solid 3px #bbb; vertical-align:middle; text-align:center; color:#fff}
+

@@ -1,0 +1,263 @@
+/* CSS Document */
+
+
+a:link, a:visited, a:active {
+	color:#3B5998; }
+a:hover {color:orange}
+
+
+
+
+
+
+
+
+body{
+	font-family:Calibri, tahoma, Helvetica, sans-serif; margin:0; padding:0; font-size:13px; background-color:#eaeaea;   height: 100%;
+    color:#3B5998;
+
+
+}
+
+TD{
+	font-family:Calibri, tahoma, Helvetica, sans-serif; margin:0; padding:0; font-size:13px; }
+
+
+
+.small {
+letter-spacing:-0px;
+font-family:Calibri,tahoma;
+font-size:13px;
+}
+
+
+
+
+
+
+
+
+
+TR.filled, TD.filled, DIV.filled {
+background-color:#dde6e4;
+padding:2px;
+}
+
+TR.filledbold, TD.filledbold, DIV.filledbold {
+background-color:#BDCECA;
+padding-left:4px;
+}
+
+TR.filledbolddark, TD.filledbolddark {
+background-color:#537D9C; height:25px; color:white;
+}
+
+
+
+
+
+.input {
+    background-color:#fafafa;
+    border:solid 1px #8EB6D2;
+font-size:12px;
+font-family : Calibri,tahoma;
+}
+
+.inputbianco {
+font-family : Calibri,tahoma;
+font-size:11px;
+background-color:#fff;
+}
+
+.inputlargo{
+font-family : Calibri,tahoma;
+font-size:13px;
+border: solid 1px #aaa;
+width:100%;
+}
+
+.pulsante {
+font-size:13px;
+font-family : tahoma,tahoma;
+background-color:#537D9C;
+color:#fbfbfb;
+font-weight:normal;
+border: solid 1px #cccccc;
+}
+
+
+.inputsmall {
+font-size:10px;
+font-family : Calibri,tahoma;
+}
+
+.inputbiancosmall {
+font-family : Calibri,tahoma;
+font-size:10px;
+background-color:#F4F3F3;
+}
+
+
+
+         .ajax__tab_header
+        {
+            font-family: "Helvetica Neue" , Arial, Sans-Serif;
+            font-size: 10px;
+            font-weight:bold;
+            display: block;
+ 
+        }
+         .ajax__tab_header .ajax__tab_outer
+        {
+            border-color: #9c3;
+            color: #222;
+            padding-left: 10px;
+            margin-right: 3px;
+            border:solid 1px #9c3;
+        }
+         .ajax__tab_header .ajax__tab_inner
+        {
+            border-color: #9c3;
+            color: #9c3;
+            padding: 3px 10px 2px 0px;
+        }
+         .ajax__tab_hover .ajax__tab_outer
+        {
+            background-color:#9c3;
+        }
+         .ajax__tab_hover .ajax__tab_inner
+        {
+            
+        }
+         .ajax__tab_active .ajax__tab_outer
+        {
+            background-color: #9c3;
+        }
+         .ajax__tab_active .ajax__tab_inner
+        {
+            color: #000;
+            border-color: #9c3;
+        }
+         .ajax__tab_body
+        {
+            font-family: verdana,tahoma,helvetica;
+            font-size: 10px;
+            border-top-width: 0;
+            border: solid 0px #9c3;
+            border-top-color: #9c3;
+            margin-top:2px
+        }
+
+
+table#tablecontaineradmin { margin-top:4px; width:1000px; }
+table#tablecontaineradmin > tr > td {   }
+
+.messaggioerroreadmin {font-size:larger; color:red; font-weight:bold; padding:20px}
+
+table#tablevocimenu tr td fieldset { border:solid 2px #8EB6D2; padding:7px;  font-size:13px }
+table#tablevocimenu tr td fieldset fieldset { padding:3px; border:solid 1px #8EB6D2;  }
+
+table#tablevocimenu tr td fieldset fieldset a:link { font-size:12px;  }
+table#tablevocimenu tr td fieldset fieldset a:visited { font-size:12px }
+table#tablevocimenu tr td fieldset fieldset a:hover { font-size:12px; color:orange }
+
+table#tablevocimenu tr td fieldset legend { color:#3B5998; font-size:16px; font-weight:normal;text-shadow: 1px 1px 3px #bbb; }
+table#tablevocimenu tr td fieldset a:link {  color:#3B5998 ; text-decoration:none}
+table#tablevocimenu tr td fieldset a:visited {  color:#3B5998 ; text-decoration:none}
+table#tablevocimenu tr td fieldset a:hover {  color:#3B5998;text-decoration:none; color:orange }
+
+
+
+
+table#tablemenuadmin tr td fieldset { border:solid 2px #8EB6D2; padding:7px;  font-size:13px }
+table#tablemenuadmin tr td fieldset legend { color:#3B5998; font-size:16px; font-weight:normal;text-shadow: 1px 1px 3px #bbb; }
+table#tablemenuadmin tr td fieldset a:link {  color:#3B5998 ; text-decoration:none}
+table#tablemenuadmin tr td fieldset a:visited {  color:#3B5998 ; text-decoration:none}
+table#tablemenuadmin tr td fieldset a:hover {  color:#3B5998;text-decoration:none; color:orange }
+
+
+table#tablemenubaradmin { margin-bottom:6px; width:100% ; padding:0px}
+table#tablemenubaradmin tr td { height:32px; background-color:#3B5998; color:#fcfcfc; margin:4px;  font-weight:bold; vertical-align:middle}
+table#tablemenubaradmin tr td a:link{ color:#fcfcfc; font-weight:bold;  }
+table#tablemenubaradmin tr td a:visited{ color:#fcfcfc; font-weight:bold;  }
+
+#tablemenu td  { 
+background-color:#003366;
+height:30px;
+border-bottom: solid 0px #99CCFF;
+font-weight:bold
+ }
+
+#tablemenu a.vocemenu:link { font-size:13px; color:#fff ; text-decoration:none}
+#tablemenu a.vocemenu:visited { font-size:13px; color:#fff;text-decoration:none}
+
+
+table#tablecontaineradmin tr td fieldset { border:solid 2px #8EB6D2; padding:7px;  font-size:13px }
+table#tablecontaineradmin tr td fieldset legend { color:#3B5998; font-size:16px; font-weight:normal;text-shadow: 1px 1px 3px #bbb; }
+table#tablecontaineradmin tr td fieldset a:link {  color:#3B5998 ; text-decoration:none}
+table#tablecontaineradmin tr td fieldset a:visited {  color:#3B5998 ; text-decoration:none}
+table#tablecontaineradmin tr td fieldset a:hover { color:orange;  text-decoration:none;  }
+table#tablecontaineradmin tr td fieldset table tr td a:link { color:#3B5998;  text-decoration:underline;  }
+table#tablecontaineradmin tr td fieldset table tr td a:visited { color:#3B5998;  text-decoration:underline;  }
+table#tablecontaineradmin tr td fieldset table tr td a:hover { color:orange;  text-decoration:underline;  }
+
+
+
+tr.admin_sfondo > td {
+background-color:#a5cbe5; padding:3px; 
+}
+tr.admin_sfondobis > td {
+background-color:#b7d6eb; padding:3px; 
+}
+
+div.myeditor 
+{
+ width:100%   
+}
+
+TR.admin_sfondodark, TD.admin_sfondodark {
+background-color:#8EB6D2;
+}
+
+
+.adminSectionTitle{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+
+.bottone, input.bottone
+{
+     background-color:#fafafa;
+    border:solid 1px #8EB6D2;
+font-size:12px;
+font-family : Calibri,tahoma;
+text-decoration:none;
+}
+
+
+
+        .modalBackground { 
+            background-color:#aaaaaa; 
+            filter:alpha(opacity=70); 
+            opacity:0.7; 
+        } 
+        div.modalPopup { 
+            background-color:#5E88A6; 
+            border-width:1px; 
+            border-style:solid; 
+            border-color:#CCCCCC; 
+            padding:1px; 
+            width:440px; 
+            height:200px;
+            color:#fff;
+        }
+        div.container p {margin: 0}
+        
+        
+        
+        
+.help
+{
+ font-size:13px; 
+}

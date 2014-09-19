@@ -1,0 +1,1893 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sentences>
+  <sentence pseudo="article.artcode">
+    <english>Code</english>
+    <italian>Cod.Articolo</italian>
+  </sentence>
+  <sentence pseudo="article.used">
+    <english>Used</english>
+    <italian>Usato</italian>
+  </sentence>
+  <sentence pseudo="article.used.yes">
+    <english>Yes</english>
+    <italian>Si</italian>
+  </sentence>
+  <sentence pseudo="article.used.no">
+    <english>No</english>
+    <italian>No</italian>
+  </sentence>
+  <sentence pseudo="article.brand">
+    <english>Brand</english>
+    <italian>Marca</italian>
+  </sentence>
+  <sentence pseudo="article.availability">
+    <english>Availability</english>
+    <italian>Disponibilità</italian>
+  </sentence>
+  <sentence pseudo="article.quantitytobeaddedtocart">
+    <english>Quantity</english>
+    <italian>Quantità</italian>
+  </sentence>
+  <sentence pseudo="article.price">
+    <english>Price</english>
+    <italian>Prezzo</italian>
+  </sentence>
+  <sentence pseudo="article.quantity.discount">
+    <english>QUANTITY DISCOUNT</english>
+    <italian>SCONTI QUANTITA'</italian>
+  </sentence>
+  <sentence pseudo="article.quantity.discount.starting.from">
+    <english>starting from</english>
+    <italian>a partire da</italian>
+  </sentence>
+  <sentence pseudo="article.quantity.discount.starting.from.units">
+    <english>units</english>
+    <italian>unità</italian>
+  </sentence>
+  <sentence pseudo="article.quantity.discount.unit.price">
+    <english>unit price</english>
+    <italian>prezzo unitario</italian>
+  </sentence>
+  <sentence pseudo="article.other.photos">
+    <english>OTHER PHOTOS</english>
+    <italian>ALTRE FOTO</italian>
+  </sentence>
+  <sentence pseudo="article.description">
+    <english>Description</english>
+    <italian>Descrizione</italian>
+  </sentence>
+  <sentence pseudo="article.technical.specifications">
+    <english>Technical specifications</english>
+    <italian>Caratteristiche tecniche</italian>
+  </sentence>
+  <sentence pseudo="article.related.products">
+    <english>Related products</english>
+    <italian>Prodotti correlati</italian>
+  </sentence>
+  <sentence pseudo="article.options.select.option">
+    <english>Select option</english>
+    <italian>Seleziona opzione</italian>
+  </sentence>
+  <sentence pseudo="article.you.are.here.product.detail">
+    <english>Product detail</english>
+    <italian>Scheda prodotto</italian>
+  </sentence>
+  <sentence pseudo="article.availability.label.not.in.stock">
+    <english>Not in stock</english>
+    <italian>Esaurito</italian>
+  </sentence>
+  <sentence pseudo="article.button.add.to.cart">
+    <english>Add to cart</english>
+    <italian>Aggiungi al carrello</italian>
+  </sentence>
+  <sentence pseudo="article.label.availability.delivery.in.the.following.days">
+    <english>delivery in {0} days</english>
+    <italian>consegna in {0} giorni</italian>
+  </sentence>
+
+
+
+
+  <sentence pseudo="newsletter.warning.email.not.valid">
+    <english>Email address in not valid</english>
+    <italian>Indirizzo email non valido</italian>
+  </sentence>
+  <sentence pseudo="newsletter.warning.you.already.registered">
+    <english>You are already registered to newsletter!</english>
+    <italian>Sei già registrato alla newsletter</italian>
+  </sentence>
+  <sentence pseudo="newsletter.message.confirm.registration">
+    <english>Please confirm registration to newsletter by clicking on the link in the email message you have received.</english>
+    <italian>Conferma la registrazione alla newsletter cliccando sul link ricevuto in email</italian>
+  </sentence>
+
+  <sentence pseudo="newsletter.email.subject.confirm.registration">
+    <english>Please confirm Subscription newsletter of</english>
+    <italian>Richiesta conferma iscrizione Newsletter di</italian>
+  </sentence>
+
+  <sentence pseudo="newsletter.email.body.confirm.registration">
+    <english>In order to confirm subscription to newsletter please click on the link belove</english>
+    <italian>Per confermare l'iscrizione alla newsletter cliccare sul link seguente</italian>
+  </sentence>
+
+  <sentence pseudo="newsletter.warning.no.subscription.present.with.this.email">
+    <english>Error, no such email subscription</english>
+    <italian>Errore, nessuna iscrizione con questo indirizzo email da confermare"</italian>
+  </sentence>
+
+  <sentence pseudo="newsletter.message.successfull.subscribed">
+    <english>You have successfully confirmed subscription to our newsletter</english>
+    <italian>Iscrizione alla newsletter confermata</italian>
+  </sentence>
+  <sentence pseudo="newsletter.message.successfull.unsubscribed">
+    <english>You are now unsubscribed.</english>
+    <italian>Iscrizione cancellata</italian>
+  </sentence>
+  <sentence pseudo="newsletter.message.problem.unsubscription">
+    <english>No registration with this email.</english>
+    <italian>Nessuna registrazione con questo indirizzo email</italian>
+  </sentence>
+
+  <sentence pseudo="allpages.menu.register">
+    <english>Register</english>
+    <italian>Registrati</italian>
+  </sentence>
+  <sentence pseudo="allpages.menu.best.seller">
+    <english>Best Seller</english>
+    <italian>Più venduti</italian>
+  </sentence>
+  <sentence pseudo="allpages.you.are.here">
+    <english>You are here</english>
+    <italian>Sei qui</italian>
+  </sentence>
+  <sentence pseudo="allpages.you.are.here.registration">
+    <english>Register</english>
+    <italian>Registrati</italian>
+  </sentence>
+  <sentence pseudo="allpages.you.are.here.cart">
+    <english>Cart</english>
+    <italian>Carrello</italian>
+  </sentence>
+  <sentence pseudo="allpages.you.are.here.data.collect">
+    <english>Data collect</english>
+    <italian>Raccolta dati</italian>
+  </sentence>
+  <sentence pseudo="allpages.you.are.here.summary">
+    <english>Summary</english>
+    <italian>Riepilogo</italian>
+  </sentence>
+  <sentence pseudo="allpages.you.are.here.order.confirmation">
+    <english>Order confirmation</english>
+    <italian>Conferma ordine</italian>
+  </sentence>
+  <sentence pseudo="allpages.you.are.here.home">
+    <english>Home</english>
+    <italian>Homepage</italian>
+  </sentence>
+  <sentence pseudo="allpages.cartbox.label.items.in.your.cart">
+    <english>items in your cart</english>
+    <italian>articoli nel carrello</italian>
+  </sentence>
+  <sentence pseudo="allpages.cartbox.subtotal">
+    <english>SUBTOTAL</english>
+    <italian>SUBTOTALE</italian>
+  </sentence>
+  <sentence pseudo="allpages.cartbox.boxtitle">
+    <english>Your cart</english>
+    <italian>Il tuo carrello</italian>
+  </sentence>
+  <sentence pseudo="allpages.cartbox.show.or.buy">
+    <english>Show or buy</english>
+    <italian>Visualizza o acquista</italian>
+  </sentence>
+  <sentence pseudo="allpages.cartbox.empty">
+    <english>Your cart is empty</english>
+    <italian>Il carrello è vuoto</italian>
+  </sentence>
+
+
+
+
+
+
+
+
+
+
+  <sentence pseudo="allpages.boxcategories.boxtitle">
+    <english>Categories</english>
+    <italian>Categorie</italian>
+  </sentence>
+  <sentence pseudo="homepage.boxfeatured.boxtitle">
+    <english>Featured products</english>
+    <italian>Prodotti in evidenza</italian>
+  </sentence>
+  <sentence pseudo="homepage.welcomebox.boxtitle">
+    <english>Welcome to the shop</english>
+    <italian>Benvenuto nel nostro negozio</italian>
+  </sentence>
+  <sentence pseudo="homepage.boxusedproducts.boxtitle">
+    <english>Used products</english>
+    <italian>Usato</italian>
+  </sentence>
+  <sentence pseudo="allpages.boxlogin.notlogged">
+    <english>You are not logged</english>
+    <italian>Non hai fatto il login</italian>
+  </sentence>
+  <sentence pseudo="allpages.boxlogin.logged">
+    <english>You are logged as</english>
+    <italian>Sei collegato come</italian>
+  </sentence>
+  <sentence pseudo="allpages.boxlogin.boxtitle">
+    <english>Your account</english>
+    <italian>Tuo account</italian>
+  </sentence>
+  <sentence pseudo="allpages.boxlogin.update.profile">
+    <english>Update profile</english>
+    <italian>Aggiorna profilo</italian>
+  </sentence>
+  <sentence pseudo="allpages.boxlogin.update.profile.or">
+    <english>or</english>
+    <italian>oppure</italian>
+  </sentence>
+  <sentence pseudo="allpages.boxlogin.do.logout">
+    <english>Logout</english>
+    <italian>Logout</italian>
+  </sentence>
+  <sentence pseudo="allpages.mailinglistbox.label.subscribe">
+    <english>Subcribe</english>
+    <italian>Iscriviti</italian>
+  </sentence>
+  <sentence pseudo="allpages.mailinglistbox.label.unsubscribe">
+    <english>Unsubcribe</english>
+    <italian>Cancellami</italian>
+  </sentence>
+  <sentence pseudo="allpages.mailinglistbox.boxtitle">
+    <english>Newsletter</english>
+    <italian>Newsletter</italian>
+  </sentence>
+
+
+  <sentence pseudo="box.products.you.have.seen.boxtitle">
+    <english>Recently viewed products</english>
+    <italian>Prodotti visti recentemente</italian>
+  </sentence>
+
+
+  <sentence pseudo="common.article.availability.yes">
+    <english>Yes</english>
+    <italian>Si</italian>
+  </sentence>
+  <sentence pseudo="common.article.availability.no">
+    <english>No</english>
+    <italian>No</italian>
+  </sentence>
+  <sentence pseudo="common.article.availability.not.available.can.be.ordered">
+    <english>Not available, can be ordered</english>
+    <italian>Non disponibile, ordinabile</italian>
+  </sentence>
+  <sentence pseudo="alert.article.select.an.option">
+    <english>Select an option for variation</english>
+    <italian>Seleziona un'opzione per la variante</italian>
+  </sentence>
+  <sentence pseudo="alert.article.quantity.must.be.greater.than.0">
+    <english>Insert a number greater than 0 in quantity field</english>
+    <italian>Inserire un numero maggiore di 0 nel campo quantità</italian>
+  </sentence>
+  <sentence pseudo="article.alert.this.product.added.to.cart">
+    <english>The article with code {0} has been added to cart.</english>
+    <italian>Il prodotto con codice {0} è stato aggiunto al carrello</italian>
+  </sentence>
+  <sentence pseudo="alert.article.with.this.code.is.not.present.anymore">
+<english>A product is no longer present in the shop. Article ID:</english>
+<italian>Un prodotto non è più presente nel negozio. ID articolo:</italian>
+</sentence>
+  <sentence pseudo="alert.article.not.available">
+    <english>Article not available</english>
+    <italian>Articolo non disponibile</italian>
+  </sentence>
+  <sentence pseudo="alert.article.quantity.not.in.stock">
+    <english>Quantity not in stock</english>
+    <italian>Quantità non disponibile</italian>
+  </sentence>
+
+
+
+
+<sentence pseudo="allpages.searchbox.boxtitle">
+<english>Search</english>
+<italian>Ricerca</italian>
+</sentence>
+
+<sentence pseudo="allpages.searchbox.type.word.to.search">
+<english>Type word to search</english>
+<italian>Digita il termine da cercare</italian>
+</sentence>
+
+<sentence pseudo="allpages.searchbox.button.go">
+<english>GO</english>
+<italian>VAI</italian>
+</sentence>
+
+<sentence pseudo="allpages.extrapagesbox.boxtitle">
+<english>Info</english>
+<italian>Informazioni</italian>
+</sentence>
+
+<sentence pseudo="extrapage.not.allowed.to.view">
+<english>Sorry, you are not allowed to view this page</english>
+<italian>SPIACENTE, NON DISPONI DELLE AUTORIZZAZIONI PER VISUALIZZARE QUESTA PAGINA</italian>
+</sentence>
+
+<sentence pseudo="common.legal.subject.private">
+<english>Private</english>
+<italian>Privato</italian>
+</sentence>
+
+<sentence pseudo="common.legal.subject.firm">
+<english>Firm</english>
+<italian>Impresa</italian>
+</sentence>
+
+<sentence pseudo="cartsummary.alert.you.must.accept.conditions">
+<english>You must accept the conditions</english>
+<italian>E' necessario accettare le condizioni</italian>
+</sentence>
+
+<sentence pseudo="cartsummary.alert.you.must.accept.privacy.terms">
+<english>You must accept the conditions about the processing of your personal informations</english>
+<italian>E' necessario accettare il trattamento dei dati personali</italian>
+</sentence>
+
+<sentence pseudo="cartsummary.button.order">
+<english>ORDER</english>
+<italian>ORDINA</italian>
+</sentence>
+
+<sentence pseudo="cartsummary.button.correct">
+<english>CORRECT</english>
+<italian>CORREGGI</italian>
+</sentence>
+
+<sentence pseudo="cartsummary.label.summary">
+<english>Summary</english>
+<italian>Riepilogo</italian>
+</sentence>
+
+<sentence pseudo="cartsummary.label.billing.data">
+<english>Billing data</english>
+<italian>Dati per fatturazione</italian>
+</sentence>
+
+<sentence pseudo="cartsummary.field.legal.subject">
+<english>Legal subject</english>
+<italian>Soggetto giuridico</italian>
+</sentence>
+
+<sentence pseudo="cartsummary.field.name.of.firm">
+<english>Name of firm</english>
+<italian>Ragione sociale</italian>
+</sentence>
+
+<sentence pseudo="cartsummary.field.first.name">
+<english>First name</english>
+<italian>Nome</italian>
+</sentence>
+
+<sentence pseudo="cartsummary.field.second.name">
+<english>Second name</english>
+<italian>Cognome</italian>
+</sentence>
+
+<sentence pseudo="cartsummary.field.second.email">
+<english>Email</english>
+<italian>Email</italian>
+</sentence>
+
+<sentence pseudo="cartsummary.field.telephone">
+<english>Telephone number</english>
+<italian>Telefono</italian>
+</sentence>
+
+<sentence pseudo="cartsummary.field.fiscal.code">
+<english>Fiscal code</english>
+<italian>Codice fiscale</italian>
+</sentence>
+
+<sentence pseudo="cartsummary.field.address">
+<english>Address</english>
+<italian>Indirizzo</italian>
+</sentence>
+
+<sentence pseudo="cartsummary.field.postal.code">
+<english>Postal code</english>
+<italian>C.A.P</italian>
+</sentence>
+
+<sentence pseudo="cartsummary.field.city">
+<english>City</english>
+<italian>Localita - Provincia</italian>
+</sentence>
+
+<sentence pseudo="cartsummary.field.country">
+<english>Country</english>
+<italian>Stato</italian>
+</sentence>
+
+<sentence pseudo="cartsummary.label.shipping.data">
+<english>Shipping data</english>
+<italian>Dati per la spedizione</italian>
+</sentence>
+
+<sentence pseudo="cartsummary.field.shipping.first.name">
+<english>First name</english>
+<italian>Nome</italian>
+</sentence>
+
+<sentence pseudo="cartsummary.field.shipping.second.name">
+<english>Second name</english>
+<italian>Cognome</italian>
+</sentence>
+
+<sentence pseudo="cartsummary.field.shipping.address">
+<english>Address</english>
+<italian>Indirizzo</italian>
+</sentence>
+
+<sentence pseudo="cartsummary.field.shipping.postal.code">
+<english>Postal code</english>
+<italian>C.A.P</italian>
+</sentence>
+
+<sentence pseudo="cartsummary.field.shipping.city">
+<english>City</english>
+<italian>Localita - Provincia</italian>
+</sentence>
+
+<sentence pseudo="cartsummary.field.shipping.country">
+<english>Country</english>
+<italian>Stato</italian>
+</sentence>
+
+<sentence pseudo="cartsummary.label.final.info">
+<english>Final info</english>
+<italian>Informazioni finali</italian>
+</sentence>
+
+<sentence pseudo="cartsummary.field.carrier">
+<english>Carrier</english>
+<italian>Corriere</italian>
+</sentence>
+
+<sentence pseudo="cartsummary.field.mode.of.payment">
+<english>Mode of payment</english>
+<italian>Modalità di pagamento</italian>
+</sentence>
+
+<sentence pseudo="cartsummary.field.notes">
+<english>Notes</english>
+<italian>Note</italian>
+</sentence>
+
+<sentence pseudo="cartsummary.checkbox.i.agree.with.conditions">
+<english>I've read and I agree with the</english>
+<italian>Ho letto e accetto le</italian>
+</sentence>
+
+<sentence pseudo="cartsummary.checkbox.i.agree.with.conditions.condition.word">
+<english>conditions</english>
+<italian>condizioni</italian>
+</sentence>
+
+<sentence pseudo="cartsummary.checkbox.i.agree.with.privacy">
+<english>I have read and I accept the policy</english>
+<italian>Ho letto e accetto il</italian>
+</sentence>
+
+<sentence pseudo="cartsummary.checkbox.i.agree.with.privacy.privacy.word">
+<english>privacy policy</english>
+<italian>trattamento dei miei dati personali</italian>
+</sentence>
+
+<sentence pseudo="cart.alert.min.order.is">
+<english>Minimum order amount is</english>
+<italian>Importo minimo ordinabile è</italian>
+</sentence>
+
+<sentence pseudo="cart.alert.max.order.is">
+<english>Maximum order amount is</english>
+<italian>Massimo importo ordinabile è</italian>
+</sentence>
+
+<sentence pseudo="cart.button.continue.shopping">
+<english>Continue shopping</english>
+<italian>Prosegui acquisti</italian>
+</sentence>
+
+<sentence pseudo="cart.button.proceed">
+<english>Proceed</english>
+<italian>Procedi</italian>
+</sentence>
+
+<sentence pseudo="cart.button.clear.cart">
+<english>Clear cart</english>
+<italian>Svuota carrello</italian>
+</sentence>
+
+<sentence pseudo="cart.label.taxes.will.be.calculated.on.next.page">
+<english>VAT or other taxes, if applicable, will be calculated in the next page</english>
+<italian>L'iva o altre tasse, se applicabili, saranno calcolate nella prossima pagina</italian>
+</sentence>
+
+<sentence pseudo="cart.label.tip.to.delete.an.article">
+<english>In order to delete an article type 0 as quantity and click on update icon</english>
+<italian>Per cancellare un articolo inserire 0 come quantità e cliccare sull'icona di aggiornamento</italian>
+</sentence>
+
+<sentence pseudo="cartbox.button.tooltip.update.quantity">
+<english>Update quantity</english>
+<italian>Aggiorna quantità</italian>
+</sentence>
+
+<sentence pseudo="cartbox.alert.inappropriate.quantity">
+<english>Inappropriate quantity</english>
+<italian>Quantità inappropriata</italian>
+</sentence>
+
+<sentence pseudo="cartbox.label.product.name">
+<english>Product name</english>
+<italian>Nome prodotto</italian>
+</sentence>
+
+<sentence pseudo="cartbox.label.price">
+<english>Price</english>
+<italian>Prezzo</italian>
+</sentence>
+
+<sentence pseudo="cartbox.label.discount">
+<english>Discount</english>
+<italian>Sconto</italian>
+</sentence>
+
+<sentence pseudo="cartbox.label.quantity">
+<english>Quantity</english>
+<italian>Quantità</italian>
+</sentence>
+
+<sentence pseudo="cartbox.label.amount">
+<english>Amount</english>
+<italian>Importo</italian>
+</sentence>
+
+<sentence pseudo="cartbox.label.subtotal">
+<english>Subtotal</english>
+<italian>Subtotale</italian>
+</sentence>
+
+<sentence pseudo="cartbox.label.coupon.discount">
+<english>Coupon discount</english>
+<italian>Sconto coupon</italian>
+</sentence>
+
+<sentence pseudo="cartbox.label.shipping.costs.and.additional.fees">
+<english>Shipping costs and additional fees</english>
+<italian>Spese di spedizione e accessorie</italian>
+</sentence>
+
+<sentence pseudo="cartbox.label.(tax).on.shipping.costs.and.additional.fees">
+<english>on shipping costs and additional fees</english>
+<italian>su spese di spedizione e accessorie</italian>
+</sentence>
+
+<sentence pseudo="cartbox.label.tot">
+<english>Total</english>
+<italian>Totale</italian>
+</sentence>
+
+<sentence pseudo="cartbox.label.photo">
+<english>Photo</english>
+<italian>Foto</italian>
+</sentence>
+
+<sentence pseudo="cartbox.label.product.code">
+<english>Product code</english>
+<italian>Codice articolo</italian>
+</sentence>
+
+<sentence pseudo="preview.subcategoriesbox.boxtitle">
+<english>Subcategories</english>
+<italian>Sottocategorie</italian>
+</sentence>
+
+<sentence pseudo="preview.productsbox.boxtitle">
+<english>Products in this category</english>
+<italian>Prodotti in questa categoria</italian>
+</sentence>
+
+<sentence pseudo="preview.products.label.brand">
+<english>Brand</english>
+<italian>Marca</italian>
+</sentence>
+
+<sentence pseudo="preview.products.label.availability">
+<english>Available</english>
+<italian>Disponibile</italian>
+</sentence>
+
+<sentence pseudo="preview.products.button.add.to.cart">
+<english>Add to cart</english>
+<italian>Nel carrello</italian>
+</sentence>
+
+<sentence pseudo="preview.alert.this.article.has.variations">
+<english>This article has options. Continue to product page.</english>
+<italian>Questo articolo ha opzioni. Continua sulla pagina prodotto</italian>
+</sentence>
+
+<sentence pseudo="preview.alert.inappropriate.quantity">
+<english>Inappropriate quantity</english>
+<italian>Quantità inappropriata</italian>
+</sentence>
+
+<sentence pseudo="preview.alert.product.added.to.cart">
+<english>The product {0} has been added to cart</english>
+<italian>Il prodotto {0} è stato aggiunto al carrello</italian>
+</sentence>
+
+<sentence pseudo="preview.products.label.not.in.stock">
+<english>Not in stock</english>
+<italian>Esaurito</italian>
+</sentence>
+
+<sentence pseudo="preview.products.label.delivery.in.days">
+<english>Delivery in {0} days</english>
+<italian>Consegna in {0} giorni</italian>
+</sentence>
+
+<sentence pseudo="preview.products.orderbyselect.order.by">
+<english>Order by</english>
+<italian>Ordina per</italian>
+</sentence>
+
+<sentence pseudo="preview.products.orderbyselect.order.by.name">
+<english>Name</english>
+<italian>Nome</italian>
+</sentence>
+
+<sentence pseudo="preview.products.orderbyselect.order.by.brand">
+<english>Brand</english>
+<italian>Marca</italian>
+</sentence>
+
+<sentence pseudo="preview.products.orderbyselect.order.by.price">
+<english>Price</english>
+<italian>Prezzo</italian>
+</sentence>
+
+<sentence pseudo="preview.products.brandfilter.filter.by.brand">
+<english>Filter by brand</english>
+<italian>Filtra per marca</italian>
+</sentence>
+
+<sentence pseudo="preview.products.tooltip.see.details">
+<english>{0}, click for details</english>
+<italian>{0}, clicca per dettagli</italian>
+</sentence>
+
+<sentence pseudo="register.title">
+<english>Register</english>
+<italian>Registrazione</italian>
+</sentence>
+
+<sentence pseudo="register.label.billing.data">
+<english>Billing data</english>
+<italian>Dati di fatturazione</italian>
+</sentence>
+
+<sentence pseudo="register.field.legal.subject">
+<english>Legal subject</english>
+<italian>Soggetto giuridico</italian>
+</sentence>
+
+<sentence pseudo="register.field.name.of.firm">
+<english>Name of firm</english>
+<italian>Ragione sociale</italian>
+</sentence>
+
+<sentence pseudo="register.field.first.name">
+<english>First name</english>
+<italian>Nome</italian>
+</sentence>
+
+<sentence pseudo="register.field.second.name">
+<english>Second name</english>
+<italian>Cognome</italian>
+</sentence>
+
+<sentence pseudo="register.field.address">
+<english>Address</english>
+<italian>Indirizzo</italian>
+</sentence>
+
+<sentence pseudo="register.field.postal.code">
+<english>Postal code</english>
+<italian>C.A.P</italian>
+</sentence>
+
+<sentence pseudo="register.field.city">
+<english>City</english>
+<italian>Località - Provincia</italian>
+</sentence>
+
+<sentence pseudo="register.field.country">
+<english>Country</english>
+<italian>Stato</italian>
+</sentence>
+
+<sentence pseudo="register.field.telephone">
+<english>Telephone number</english>
+<italian>Telefono</italian>
+</sentence>
+
+<sentence pseudo="register.field.fiscal.code">
+<english>Fiscal code</english>
+<italian>Codice fiscale</italian>
+</sentence>
+
+<sentence pseudo="register.field.vat.number">
+<english>VAT number</english>
+<italian>Partita IVA</italian>
+</sentence>
+
+<sentence pseudo="register.label.shipping.data">
+<english>Shipping data</english>
+<italian>Dati per la spedizione</italian>
+</sentence>
+
+<sentence pseudo="register.shipping.field.first.name">
+<english>First name</english>
+<italian>Nome</italian>
+</sentence>
+
+<sentence pseudo="register.shipping.field.second.name">
+<english>Second name</english>
+<italian>Cognome</italian>
+</sentence>
+
+<sentence pseudo="register.shipping.field.address">
+<english>Address</english>
+<italian>Indirizzo</italian>
+</sentence>
+
+<sentence pseudo="register.shipping.field.postal.code">
+<english>Postal code</english>
+<italian>C.A.P</italian>
+</sentence>
+
+<sentence pseudo="register.shipping.field.city">
+<english>City</english>
+<italian>Località - Provincia</italian>
+</sentence>
+
+<sentence pseudo="register.shipping.field.country">
+<english>Country</english>
+<italian>Stato</italian>
+</sentence>
+
+<sentence pseudo="register.label.access.data">
+<english>Access data</english>
+<italian>Dati di accesso</italian>
+</sentence>
+
+<sentence pseudo="register.access.data.field.email">
+<english>Email</english>
+<italian>Email</italian>
+</sentence>
+
+<sentence pseudo="register.access.data.field.email.label.this.will.be.username">
+<english>This will be your User Name</english>
+<italian>Questo sarà il suo User Name</italian>
+</sentence>
+
+<sentence pseudo="register.access.data.field.password">
+<english>Choose a password</english>
+<italian>Scegliere una password</italian>
+</sentence>
+
+<sentence pseudo="register.label.newsletter">
+<english>Newsletter</english>
+<italian>Newsletter</italian>
+</sentence>
+
+<sentence pseudo="register.checkbox.newsletter">
+<english>Subscription to newsletter</english>
+<italian>Iscrizione alla newsletter</italian>
+</sentence>
+
+<sentence pseudo="register.label.privacy">
+<english>Privacy</english>
+<italian>Privacy</italian>
+</sentence>
+
+<sentence pseudo="register.privacy.checkbox.i.accept">
+<english>I've read and accept</english>
+<italian>Ho letto e accetto</italian>
+</sentence>
+
+<sentence pseudo="register.privacy.checbox.link.to.privacy.policy">
+<english>the conditions about the processing of my personal informations</english>
+<italian>l'informativa sulla privacy dei miei dati personali</italian>
+</sentence>
+
+<sentence pseudo="register.button.register">
+<english>Register</english>
+<italian>Registrami</italian>
+</sentence>
+
+<sentence pseudo="register.reminder.email.subject">
+<english>Registration to</english>
+<italian>Registrazione a</italian>
+</sentence>
+
+<sentence pseudo="register.reminder.email.body.label.your.access.data">
+<english>Your access data</english>
+<italian>I tuoi dati di accesso</italian>
+</sentence>
+
+<sentence pseudo="register.reminder.email.body.label.username">
+<english>Username</english>
+<italian>Username</italian>
+</sentence>
+
+<sentence pseudo="register.reminder.email.body.label.password">
+<english>Password</english>
+<italian>Password</italian>
+</sentence>
+
+<sentence pseudo="registration.warning.telephone.mandatory">
+<english>Telephone number is mandatory</english>
+<italian>Telefono obbligatorio</italian>
+</sentence>
+
+<sentence pseudo="registration.warning.fiscal.code.mandatory">
+<english>Fiscal code is mandatory</english>
+<italian>Codice fiscale obbligatorio</italian>
+</sentence>
+
+<sentence pseudo="registration.warning.vat.number.mandatory">
+<english>VAT number is mandatory</english>
+<italian>Partita IVA obbligatoria</italian>
+</sentence>
+
+<sentence pseudo="registration.warning.email.invalid">
+<english>Email format invalid</english>
+<italian>Formato email non valido</italian>
+</sentence>
+
+<sentence pseudo="registration.fields.empty.field.or.too.much.chars">
+<english>Empty field or too much characters</english>
+<italian>Campo mancante o troppo lungo</italian>
+</sentence>
+
+<sentence pseudo="registration.warning.must.accept.privacy.conditions">
+<english>In order to proceed You must accept the conditions about privacy</english>
+<italian>E' necessario accettare le condizioni sulla privacy</italian>
+</sentence>
+
+<sentence pseudo="registration.warning.email.registration.already.exists">
+<english>A registration with this email address already exists, please choose another email address</english>
+<italian>Esiste già una registrazione con questo indirizzo Email, scegliere un'altra email</italian>
+</sentence>
+
+<sentence pseudo="registration.message.successfull.registration">
+<english>You have successfull registered</english>
+<italian>Ti sei registrato con successo</italian>
+</sentence>
+
+<sentence pseudo="registration.message.successfull.registration.reminder.email.sent">
+<english>An email was sent to your Email address in order to remind you your access data</english>
+<italian>E' stata inviata una Email al Suo indirizzo di posta elettronica per ricordarle i dati di accesso</italian>
+</sentence>
+
+<sentence pseudo="registration.successfull.but.problem.delivering.reminder.email">
+<english>We couldn't send the reimnder email with the access data you choosed</english>
+<italian>Non è stato possibile inviare l'email promemoria contenente la password prescelta</italian>
+</sentence>
+
+<sentence pseudo="registration.successfull.but.problem.delivering.reminder.email.problem.detail">
+<english>Problem detail</english>
+<italian>Dettaglio problema</italian>
+</sentence>
+
+<sentence pseudo="registration.completed.do.login.link">
+<english>Do login</english>
+<italian>Effettua il login</italian>
+</sentence>
+
+<sentence pseudo="updateprofile.label.billing.data">
+<english>Billing data</english>
+<italian>Dati per fatturazione</italian>
+</sentence>
+
+<sentence pseudo="updateprofile.field.legal.subject">
+<english>Legal subject</english>
+<italian>Soggetto giuridico</italian>
+</sentence>
+
+<sentence pseudo="updateprofile.field.name.of.firm">
+<english>Name of firm</english>
+<italian>Ragione sociale</italian>
+</sentence>
+
+<sentence pseudo="updateprofile.field.first.name">
+<english>First name</english>
+<italian>Nome</italian>
+</sentence>
+
+<sentence pseudo="updateprofile.field.second.name">
+<english>Second name</english>
+<italian>Cognome</italian>
+</sentence>
+
+<sentence pseudo="updateprofile.field.address">
+<english>Address</english>
+<italian>Indirizzo</italian>
+</sentence>
+
+<sentence pseudo="updateprofile.field.postal.code">
+<english>Postal code</english>
+<italian>C.A.P</italian>
+</sentence>
+
+<sentence pseudo="updateprofile.field.city">
+<english>City</english>
+<italian>Località - Provincia</italian>
+</sentence>
+
+<sentence pseudo="updateprofile.field.country">
+<english>Country</english>
+<italian>Stato</italian>
+</sentence>
+
+<sentence pseudo="updateprofile.field.telephone">
+<english>Telephone number</english>
+<italian>Telefono</italian>
+</sentence>
+
+<sentence pseudo="updateprofile.field.fiscal.code">
+<english>Fiscal code</english>
+<italian>Codice fiscale</italian>
+</sentence>
+
+<sentence pseudo="updateprofile.field.vat.number">
+<english>VAT number</english>
+<italian>Partita IVA</italian>
+</sentence>
+
+<sentence pseudo="updateprofile.label.shipping.data">
+<english>Shipping Data</english>
+<italian>Dati per la spedizione</italian>
+</sentence>
+
+<sentence pseudo="updateprofile.shipping.field.first.name">
+<english>First name</english>
+<italian>Nome</italian>
+</sentence>
+
+<sentence pseudo="updateprofile.shipping.field.second.name">
+<english>Second name</english>
+<italian>Cognome</italian>
+</sentence>
+
+<sentence pseudo="updateprofile.shipping.field.address">
+<english>Address</english>
+<italian>Indirizzo</italian>
+</sentence>
+
+<sentence pseudo="updateprofile.shipping.postal.code">
+<english>Postal code</english>
+<italian>C.A.P</italian>
+</sentence>
+
+<sentence pseudo="updateprofile.shipping.city">
+<english>City</english>
+<italian>Località - Provincia</italian>
+</sentence>
+
+<sentence pseudo="updateprofile.shipping.country">
+<english>Country</english>
+<italian>Stato</italian>
+</sentence>
+
+<sentence pseudo="updateprofile.access.data.label">
+<english>Access data</english>
+<italian>Dati di accesso</italian>
+</sentence>
+
+<sentence pseudo="updateprofile.access.data.field.email">
+<english>Email</english>
+<italian>Email</italian>
+</sentence>
+
+<sentence pseudo="updateprofile.access.data.field.old.password">
+<english>Current password</english>
+<italian>Password attuale</italian>
+</sentence>
+
+<sentence pseudo="updateprofile.access.data.field.new.password">
+<english>New password</english>
+<italian>Nuova password</italian>
+</sentence>
+
+<sentence pseudo="updateprofile.label.newsletter">
+<english>Newsletter</english>
+<italian>Newsletter</italian>
+</sentence>
+
+<sentence pseudo="updateprofile.checkbox.newsletter.subscription">
+<english>Newsletter subscription</english>
+<italian>Iscrizione alla newsletter</italian>
+</sentence>
+
+<sentence pseudo="updateprofile.button.update">
+<english>Update</english>
+<italian>Aggiorna</italian>
+</sentence>
+
+<sentence pseudo="updateprofile.warning.telephone.is.empty.or.too.long">
+<english>Missing telephone or too much long</english>
+<italian>Telefono mancante o troppo lungo</italian>
+</sentence>
+
+<sentence pseudo="updateprofile.warning.fiscal.code.is.empty.or.too.long">
+<english>Missing fiscal code or too much long fiscal code</english>
+<italian>Codice fiscale mancante o troppo lungo</italian>
+</sentence>
+
+<sentence pseudo="updateprofile.warning.vat.number.has.wrong.length">
+<english>Wrong length for VAT number</english>
+<italian>Lunghezza errata per Partita Iva</italian>
+</sentence>
+
+<sentence pseudo="updateprofile.warning.empty.field.or.too.much.long">
+<english>The field is empty or has too many characters</english>
+<italian>Il campo è vuoto oppure ha troppi caratteri</italian>
+</sentence>
+
+<sentence pseudo="updateprofile.warning.wrong.old.password">
+<english>Wrong old password</english>
+<italian>Vecchia password errata</italian>
+</sentence>
+
+<sentence pseudo="updateprofile.profile.updated">
+<english>Profile has been updated</english>
+<italian>Profilo aggiornato</italian>
+</sentence>
+
+<sentence pseudo="updateprofile.title">
+<english>Update your profile</english>
+<italian>Aggiorna profilo</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.label.purchas.without.registration">
+<english>Purchase without registration</english>
+<italian>Acquisto senza registrazione</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.label.if.prefer.registration">
+<english>If you prefer register click</english>
+<italian>Se preferisci registrarti clicca</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.label.if.prefer.registration.link.to.registration.page">
+<english>here</english>
+<italian>qui</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.label.data.collect">
+<english>Data collect</english>
+<italian>Raccolta dati</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.label.billing.data">
+<english>Billing data</english>
+<italian>Dati per fatturazione</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.field.legal.subject">
+<english>Legal subject</english>
+<italian>Soggetto giuridico</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.field.name.of.firm">
+<english>Name of firm</english>
+<italian>Ragione sociale</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.field.first.name">
+<english>First name</english>
+<italian>Nome</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.field.second.name">
+<english>Second name</english>
+<italian>Cognome</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.field.address">
+<english>Address</english>
+<italian>Indirizzo</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.field.postal.code">
+<english>Postal code</english>
+<italian>C.A.P</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.field.city">
+<english>City</english>
+<italian>Località - Provincia</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.field.country">
+<english>Country</english>
+<italian>Stato</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.field.email">
+<english>Email</english>
+<italian>Email</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.field.telephone">
+<english>Telephone number</english>
+<italian>Telefono</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.field.fiscal.code">
+<english>Fiscal code</english>
+<italian>Codice fiscale</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.field.vat.number">
+<english>VAT number</english>
+<italian>Partita IVA</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.label.shipping.data">
+<english>Shipping data</english>
+<italian>Dati per la spedizione</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.shipping.field.first.name">
+<english>First name</english>
+<italian>Nome</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.shipping.field.second.name">
+<english>Second name</english>
+<italian>Cognome</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.shipping.field.address">
+<english>Address</english>
+<italian>Indirizzo</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.shipping.field.postal.code">
+<english>Postal code</english>
+<italian>C.A.P</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.shipping.field.city">
+<english>City</english>
+<italian>Località - Provincia</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.shipping.field.country">
+<english>Country</english>
+<italian>Stato</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.label.carrier.and.method.of.payment">
+<english>Carrier and method of payment</english>
+<italian>Corriere e modalità di pagamento</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.field.carrier">
+<english>Carrier</english>
+<italian>Corriere</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.field.method.of.payment">
+<english>Method of payment</english>
+<italian>Modalità di pagamento</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.field.notes">
+<english>Notes</english>
+<italian>Note</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.field.coupon.code">
+<english>Coupon code if you have one</english>
+<italian>Codice coupon se ne possiedi uno</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.warning.invalid.email">
+<english>Email format invalid</english>
+<italian>Formato emaili non valido</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.warning.fields.empty.or.too.many.chars">
+<english>The field is empty or has too many characters</english>
+<italian>Campo mancante o troppo lungo</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.warning.mandatory.telephone">
+<english>Telephone number is mandatory</english>
+<italian>Telefono obbligatorio</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.warning.mandatory.fiscal.code">
+<english>Fiscal code is mandatory</english>
+<italian>Codice fiscale obbligatorio</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.warning.mandatory.vat.number">
+<english>VAT number is mandatory</english>
+<italian>Partita IVA obbligatoria</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.warning.invalid.coupon">
+<english>Invalid coupon code</english>
+<italian>Codice coupon non valido</italian>
+</sentence>
+
+<sentence pseudo="cartcollect.button.proceed">
+<english>proceed to summary</english>
+<italian>procedi al riepilogo</italian>
+</sentence>
+
+<sentence pseudo="login.title">
+<english>LOGIN</english>
+<italian>LOGIN</italian>
+</sentence>
+
+<sentence pseudo="login.field.email">
+<english>Email</english>
+<italian>Email</italian>
+</sentence>
+
+<sentence pseudo="login.field.password">
+<english>Password</english>
+<italian>Password</italian>
+</sentence>
+
+<sentence pseudo="login.alert.inappropriate.email">
+<english>Email format not valid</english>
+<italian>Formato email non valido</italian>
+</sentence>
+
+<sentence pseudo="login.alert.inappropriate.password">
+<english>Invalid password</english>
+<italian>Password non valida</italian>
+</sentence>
+
+<sentence pseudo="login.alert.login.denied">
+<english>Email/password not correct</english>
+<italian>Email/password non corretti</italian>
+</sentence>
+
+<sentence pseudo="bestseller.title">
+<english>Best seller</english>
+<italian>Più venduti</italian>
+</sentence>
+
+<sentence pseudo="news.title">
+<english>News</english>
+<italian>News</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.subject">
+<english>Copy of your order N. {0} from online shop {1}</english>
+<italian>Copia del tuo ordine N. {0} da negozio online {1}</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.label.billing.data">
+<english>Billing data</english>
+<italian>Dati di fatturazione</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.legal.subject">
+<english>Legal subject</english>
+<italian>Soggetto giuridico</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.first.name">
+<english>First name</english>
+<italian>Nome</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.second.name">
+<english>Second name</english>
+<italian>Cognome</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.name.of.firm">
+<english>Name of firm</english>
+<italian>Ragione sociale</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.email">
+<english>Email</english>
+<italian>Email</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.telephone">
+<english>Telephone number</english>
+<italian>Telefono</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.fiscal.code">
+<english>Fiscal code</english>
+<italian>Codice fiscale</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.vat.number">
+<english>VAT number</english>
+<italian>Partita IVA</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.address">
+<english>Address</english>
+<italian>Indirizzo</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.postal.code">
+<english>Postal code</english>
+<italian>C.A.P</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.city">
+<english>City</english>
+<italian>Località - Provincia</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.country">
+<english>Country</english>
+<italian>Stato</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.label.shipping.data">
+<english>Shipping data</english>
+<italian>Dati per la spedizione</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.shipping.first.name">
+<english>First name</english>
+<italian>Nome</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.shipping.second.name">
+<english>Second name</english>
+<italian>Cognome</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.shipping.address">
+<english>Address</english>
+<italian>Indirizzo</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.shipping.postal.code">
+<english>Postal code</english>
+<italian>C.A.P</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.shipping.city">
+<english>City</english>
+<italian>Località - Provincia</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.shipping.country">
+<english>Country</english>
+<italian>Stato</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.label.final.info">
+<english>Final info</english>
+<italian>Informazioni finali</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.carrier">
+<english>Carrier</english>
+<italian>Corriere</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.mode.of.payment">
+<english>Mode of payment</english>
+<italian>Modalità di pagamento</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.notes">
+<english>Notes</english>
+<italian>Note</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.cart.product.code">
+<english>Product code</english>
+<italian>Codice articolo</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.cart.product.name">
+<english>Product name</english>
+<italian>Nome prodotto</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.cart.price">
+<english>Price</english>
+<italian>Prezzo</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.cart.discount">
+<english>Discount</english>
+<italian>Sconto</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.cart.quantity">
+<english>Quantity</english>
+<italian>Quantità</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.cart.amount">
+<english>Amount</english>
+<italian>Importo</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.cart.subtotal">
+<english>Subtotal</english>
+<italian>Subtotale</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.cart.coupon.discount">
+<english>Coupon discount</english>
+<italian>Sconto coupon</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.cart.label.shipping.costs.and.other">
+<english>Shipping costs and additional fees</english>
+<italian>Spese di spedizione e accessorie</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.cart.label.(tax.on).shipping.costs.and.other">
+<english>on shipping costs and additional fees</english>
+<italian>su spese di spedizione e accessorie</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.cart.coupon.discount.after.taxes">
+<english>Coupon discount</english>
+<italian>Sconto coupon</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.email.body.cart.total">
+<english>Total</english>
+<italian>Totale</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.warning.problem.in.sending.order.email.to.merchant">
+<english>Impossible to deliver email of order to the Merchant. Anyway, the merchant will be able to check your order from the backoffice. Problem Description: {0}</english>
+<italian>Impossibile inviare l'email dell'ordine al negoziante. Questi potrà comunque consultare l'ordine dallo stato ordini. Descrizione problema: {0}</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.warning.empty.cart">
+<english>The cart is empty!</english>
+<italian>Il carrello è vuoto!</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.warning.some.products.in.cart.not.available.anymore">
+<english>One or more products in the cart are no longer available. The order has not been sent to the merchant</english>
+<italian>Uno o più prodotti nel carrello non sono più disponibili. L'ordine non è stato inoltrato al negoziante.</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.order.sent.with.number">
+<english>The order has successfully sent to merchant. It has Order Number {0}</english>
+<italian>L'ordine è stato inoltrato con successo. Gli è stato assegnato il Numero Ordine {0}</italian>
+</sentence>
+
+<sentence pseudo="cartconfirm.paypalform.itemname">
+<english>Order ID {0}</english>
+<italian>ID Ordine {0}</italian>
+</sentence>
+
+<sentence pseudo="common.tax.name.generic.tax">
+<english>TAXES</english>
+<italian>TASSE</italian>
+</sentence>
+
+<sentence pseudo="common.tax.name.vat">
+<english>VAT</english>
+<italian>IVA</italian>
+</sentence>
+
+<sentence pseudo="security.type.not.allowed.chars">
+<english>oops.. you typed one or more not allowed characters.</english>
+<italian>oops.. hai digitato uno o più caratteri non consentiti</italian>
+</sentence>
+
+<sentence pseudo="exception.country.no.more.in.archive">
+<english>opssssss... the country you selected was deleted by the merchant; contact the merchant</english>
+<italian>opss.. lo stato da te selezionato è stato cancellato dal merchant. contatta il merchant</italian>
+</sentence>
+
+<sentence pseudo="exception.zone.no.more.in.archive">
+<english>opssssss... the zone is no more in archive. please contact the merchant</english>
+<italian>opss.. la zona non è più in archivio, contatta il merchant</italian>
+</sentence>
+
+<sentence pseudo="exception.courier.no.longer.in.archive">
+<english>opss...the courier you selected in no more in archive.</english>
+<italian>opss...il corriere da te selezionato non è più in archivio.</italian>
+</sentence>
+
+<sentence pseudo="problema.error.has.occurred">
+<english>An error has occured.</english>
+<italian>Si è verificato un errore.</italian>
+</sentence>
+
+<sentence pseudo="resultsearch.orderby.select">
+<english>Reorder by</english>
+<italian>Riordina per</italian>
+</sentence>
+
+<sentence pseudo="resultsearch.orderby.name">
+<english>Name</english>
+<italian>Nome</italian>
+</sentence>
+
+<sentence pseudo="resultsearch.orderby.brand">
+<english>Brand</english>
+<italian>Marca</italian>
+</sentence>
+
+<sentence pseudo="resultsearch.orderby.price">
+<english>Price</english>
+<italian>Prezzo</italian>
+</sentence>
+
+<sentence pseudo="resultsearch.filter.any.brand">
+<english>Any brand</english>
+<italian>Qualsiasi marca</italian>
+</sentence>
+
+<sentence pseudo="resultsearch.warning.missing.words.to.search">
+<english>You haven't specified the words to search</english>
+<italian>Non hai specificato il termine da cercare</italian>
+</sentence>
+
+<sentence pseudo="resultsearch.label.you.searched.for">
+<english>Search result for</english>
+<italian>Risultati ricerca per</italian>
+</sentence>
+
+<sentence pseudo="resultsearch.select.filter.by.brand">
+<english>Filter by brand</english>
+<italian>Filtra per marca</italian>
+</sentence>
+
+<sentence pseudo="resultsearch.select.order.by">
+<english>Order by</english>
+<italian>Ordina per</italian>
+</sentence>
+
+<sentence pseudo="resultsearch.products.label.brand">
+<english>Brand</english>
+<italian>Marca</italian>
+</sentence>
+
+<sentence pseudo="">
+<english></english>
+<italian></italian>
+</sentence>
+
+<sentence pseudo="resultsearch.products.label.availability">
+<english>Available</english>
+<italian>Disponibilità</italian>
+</sentence>
+
+<sentence pseudo="admin.order.label.order.data">
+<english>ORDER DATA</english>
+<italian>INFORMAZIONI ORDINE</italian>
+</sentence>
+
+
+<sentence pseudo="admin.order.label.order.ID">
+<english>order ID</english>
+<italian>ID ordine</italian>
+</sentence>
+
+<sentence pseudo="admin.order.label.order.date">
+<english>order date</english>
+<italian>data ordine</italian>
+</sentence>
+
+<sentence pseudo="admin.order.label.user.id">
+<english>user ID</english>
+<italian>ID user</italian>
+</sentence>
+
+<sentence pseudo="admin.order.label.billing.data">
+<english>BILLING DATA</english>
+<italian>DATI DI FATTURAZIONE</italian>
+</sentence>
+
+<sentence pseudo="admin.order.label.legal.subject">
+<english>legal subject</english>
+<italian>sogetto giuridico</italian>
+</sentence>
+
+<sentence pseudo="admin.order.label.name.of.firm">
+<english>name of firm</english>
+<italian>ragione sociale</italian>
+</sentence>
+
+<sentence pseudo="admin.order.label.first.name">
+<english>first name</english>
+<italian>nome</italian>
+</sentence>
+
+<sentence pseudo="admin.order.label.second.name">
+<english>second name</english>
+<italian>cognome</italian>
+</sentence>
+
+<sentence pseudo="admin.order.label.telephone">
+<english>telephone number</english>
+<italian>telefono</italian>
+</sentence>
+
+<sentence pseudo="admin.order.label.fiscal.code">
+<english>fiscal code</english>
+<italian>codice fiscale</italian>
+</sentence>
+
+<sentence pseudo="admin.order.label.address">
+<english>address</english>
+<italian>indirizzo</italian>
+</sentence>
+
+<sentence pseudo="admin.order.label.postal.code">
+<english>postal code</english>
+<italian>C.A.P.</italian>
+</sentence>
+
+<sentence pseudo="admin.order.label.city">
+<english>city</english>
+<italian>localita-provincia</italian>
+</sentence>
+
+<sentence pseudo="admin.order.label.country">
+<english>country</english>
+<italian>stato</italian>
+</sentence>
+
+<sentence pseudo="admin.order.label.shipping.data">
+<english>SHIPPING DATA</english>
+<italian>DATI DI SPEDIZIONE</italian>
+</sentence>
+
+<sentence pseudo="admin.order.shipping.label.first.name">
+<english>first name</english>
+<italian>nome</italian>
+</sentence>
+
+<sentence pseudo="admin.order.shipping.label.second.name">
+<english>second name</english>
+<italian>cognome</italian>
+</sentence>
+
+<sentence pseudo="admin.order.shipping.label.address">
+<english>address</english>
+<italian>indirizzo</italian>
+</sentence>
+
+<sentence pseudo="admin.order.shipping.label.postal.code">
+<english>postal code</english>
+<italian>C.A.P.</italian>
+</sentence>
+
+<sentence pseudo="admin.order.shipping.label.city">
+<english>city</english>
+<italian>localita-provincia</italian>
+</sentence>
+
+<sentence pseudo="admin.order.shipping.label.country">
+<english>country</english>
+<italian>stato</italian>
+</sentence>
+
+<sentence pseudo="admin.order.label.final.info">
+<english>FINAL INFORMATION</english>
+<italian>INFORMAZIONI FINALI</italian>
+</sentence>
+
+<sentence pseudo="admin.order.label.carrier">
+<english>carrier</english>
+<italian>corriere</italian>
+</sentence>
+
+<sentence pseudo="admin.order.label.mode.of.payment">
+<english>mode of payment</english>
+<italian>modalità di pagamento</italian>
+</sentence>
+
+<sentence pseudo="admin.order.label.notes">
+<english>notes</english>
+<italian>note</italian>
+</sentence>
+
+<sentence pseudo="admin.cartbox.photo">
+<english>PHOTO</english>
+<italian>FOTO</italian>
+</sentence>
+
+<sentence pseudo="admin.cartbox.art.code">
+<english>product code</english>
+<italian>codice prodotto</italian>
+</sentence>
+
+<sentence pseudo="admin.cartbox.art.name">
+<english>product name</english>
+<italian>nome prodotto</italian>
+</sentence>
+
+<sentence pseudo="admin.cartbox.price">
+<english>price</english>
+<italian>prezzo</italian>
+</sentence>
+
+<sentence pseudo="admin.cartbox.discount">
+<english>discount</english>
+<italian>sconto</italian>
+</sentence>
+
+<sentence pseudo="admin.cartbox.quantity">
+<english>quantity</english>
+<italian>quantità</italian>
+</sentence>
+
+<sentence pseudo="admin.cartbox.amount">
+<english>amount</english>
+<italian>importo</italian>
+</sentence>
+
+<sentence pseudo="admin.cartbox.subtotal">
+<english>subtotal</english>
+<italian>subtotale</italian>
+</sentence>
+
+<sentence pseudo="admin.cartbox.discount.coupon">
+<english>coupon discount</english>
+<italian>sconto coupon</italian>
+</sentence>
+
+<sentence pseudo="admin.cartbox.shipping.costs.and.addition.fees">
+<english>shipping costs and additional fees</english>
+<italian>spese di spedizione e oneri accessori</italian>
+</sentence>
+
+<sentence pseudo="admin.cartbox.label.on.shipping.costs.and.additional.fees">
+<english>on shipping costs and additional fees</english>
+<italian>su spese di spedizione e oneri accessori</italian>
+</sentence>
+
+<sentence pseudo="admin.cartbox.total">
+<english>total</english>
+<italian>totale</italian>
+</sentence>
+
+<sentence pseudo="allpages.you.are.here.search">
+<english>Search</english>
+<italian>Ricerca per termine</italian>
+</sentence>
+
+<sentence pseudo="allpages.alert.one.or.more.products.no.more.available.automatically.removed.from.cart">
+<english>One or more products have been automatically removed from your cart since they are no longer available</english>
+<italian>Uno o più articoli sono stati automaticamente rimossi dal carrello perché non più disponibili</italian>
+</sentence>
+
+<sentence pseudo="passwordrecovery.warning.no.registration.with.this.email">
+<english>No registration with this email address</english>
+<italian>Nessuna registrazione con questa email</italian>
+</sentence>
+
+<sentence pseudo="passwordrecovery.email.subject.label.your.new.password">
+<english>Your new password of online shop </english>
+<italian>La tua nuova password del negozio online </italian>
+</sentence>
+
+<sentence pseudo="passwordrecovery.email.body.label.your.new.password">
+<english>New password</english>
+<italian>Nuova password</italian>
+</sentence>
+
+<sentence pseudo="passwordrecovery.email.body.label.info.for.modifying.password">
+<english>In order to modify password, please do login with this password and update your profile.</english>
+<italian>Per cambiare la password eseguire il login con la nuova password e aggiornare il profilo.</italian>
+</sentence>
+
+<sentence pseudo="passwordrecovery.message.new.password.sent.to.email">
+<english>New password has been sent to your email</english>
+<italian>La nuova password ti è stata inviata al tuo indirizzo email</italian>
+</sentence>
+
+<sentence pseudo="passwordrecovery.message.new.password.impossibile.to.delivery.email">
+<english>It was not possible to send you the email with the new password.</english>
+<italian>Non è stato possibile inviarti la mail contenente la nuova password.</italian>
+</sentence>
+
+<sentence pseudo="passwordrecovery.button.reovery.password">
+<english>RECOVERY PASSWORD</english>
+<italian>RECUPERA PASSWORD</italian>
+</sentence>
+
+<sentence pseudo="passwordrecovery.label.password.recovery">
+<english>Password recovery</english>
+<italian>Recupero password</italian>
+</sentence>
+
+<sentence pseudo="passwordrecovery.field.type.your.registration.email">
+<english>Type your registration email</english>
+<italian>Digita l'indirizzo email con cui ti sei registrato</italian>
+</sentence>
+
+<sentence pseudo="problem.label.error.has.occurred">
+<english>A problem has occured.</english>
+<italian>Si è verificato un problema.</italian>
+</sentence>
+
+<sentence pseudo="allpages.you.are.here.newsletter">
+<english>Newsletter</english>
+<italian>Newsletter</italian>
+</sentence>
+
+<sentence pseudo="allpages.you.are.here.updateprofile">
+<english>Update profile</english>
+<italian>Aggiorna profilo</italian>
+</sentence>
+
+<sentence pseudo="allpages.you.are.here.best.seller">
+<english>Best seller</english>
+<italian>Più venduti</italian>
+</sentence>
+
+<sentence pseudo="allpages.you.are.news">
+<english>News</english>
+<italian>News</italian>
+</sentence>
+
+<sentence pseudo="allpages.menu.login">
+<english>Login</english>
+<italian>Login</italian>
+</sentence>
+
+<sentence pseudo="login.link.forgot.password">
+<english>I have forgotten my password</english>
+<italian>Ho dimenticato la password</italian>
+</sentence>
+
+<sentence pseudo="allpages.you.are.here.password.recovery">
+<english>Password recovery</english>
+<italian>Recupero password</italian>
+</sentence>
+
+<sentence pseudo="preview.productsbox.label.no.articles.in.this.category">
+<english>No products in this category</english>
+<italian>Nessun articolo in questa categoria</italian>
+</sentence>
+
+<sentence pseudo="resultsearch.warning.type.more.characters.to.find">
+<english>Please insert more characters as search term.</english>
+<italian>Inserire più caratteri come termine di ricerca.</italian>
+</sentence>
+</sentences>
